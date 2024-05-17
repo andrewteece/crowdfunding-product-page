@@ -22,3 +22,20 @@
 }
 
 /* CSS CUSTOM PROPERTIES */
+
+:root {
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-400: hsl(0, 0%, 48%);
+  --clr-netural-800: hsl(0, 0%, 0%);
+
+  --clr-accent-400: hsl(176, 50%, 47%);
+  --clr-accent-500: hsl(176, 72%, 28%);
+}
+
+/* CSS RESET */
+
+/* GLOBAL STYLES */
+
+/* UTILITY */
+
+/* COMPONENTS */
