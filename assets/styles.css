@@ -1,0 +1,24 @@
+/* FONTS */
+
+@font-face {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 400;
+  src: url('./fonts/Commissioner-Regular.woff2') format('woff2');
+  src: url('./fonts/Commissioner-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 500;
+  src: url('./fonts/Commissioner-SemiBold.woff2') format('woff2');
+  src: url('./fonts/Commissioner-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 700;
+  src: url('./fonts/Commissioner-Bold.woff2') format('woff2');
+  src: url('./fonts/Commissioner-Bold.woff') format('woff');
+}
+
+/* CSS CUSTOM PROPERTIES */
